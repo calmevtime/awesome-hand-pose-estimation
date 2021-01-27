@@ -2,13 +2,15 @@
 
 A curated list of awesome hand pose estimation papers, frameworks, libraries, software and resources.
 
-- [Papers ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-hand-pose-estimation)
-  - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv), [Others](#2021-others)
-  - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [Others](#2020-others)
-  - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv), [Others](#2019-others)
+Table of Contents
+---
+
+- [Papers](#papers)
+  - [2020 CVPR](#2020-cvpr)
+  - [2020 ECCV](#2020-eccv)
+  - [2020 Others](#2020-others)
 - [Hand Models](#hand-models)
-  - [MANO](#mano)
-- [Contributing](#contributing)
+  - [Contributing](#contributing)
 
 ---
 
@@ -27,7 +29,7 @@ _Dominik Kulon, Riza Alp Güler, Iasonas Kokkinos, Michael Bronstein, Stefanos Z
 ## Hand Models
 * Manopth [\[Project\]](https://github.com/hassony2/manopth)
 
-# Contributing
+## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
 
