@@ -1,28 +1,30 @@
-# Awesome Hand Pose Estimation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Hand Pose Estimation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome hand pose estimation papers, frameworks, libraries, software and resources.
 
-Table of Contents
----
-
-- [Papers](#papers)
-  - [2020 CVPR](#2020-cvpr)
-  - [2020 ECCV](#2020-eccv)
-  - [2020 Others](#2020-others)
-- [Hand Models](#hand-models)
+- [Awesome Hand Pose Estimation](#awesome-hand-pose-estimation)
+  - [Papers](#papers)
+    - [Video-based Pose Estimation](#video-based-pose-estimation)
+    - [Hand Reconstruction](#hand-reconstruction)
+    - [Hand Object Interaction](#hand-object-interaction)
+  - [Hand Models](#hand-models)
   - [Contributing](#contributing)
 
----
-
 ## Papers
-### 2020 CVPR
+
+### Video-based Pose Estimation
+
+* SeqHAND: RGB-Sequence-Based 3D Hand Pose and Shape Estimation. [\[PDF\]](http://arxiv.org/pdf/2007.05168)
+_John Yang, Hyung Jin Chang, Seungeui Lee, Nojun Kwak_
+
+### Hand Reconstruction
 
 * Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild. [\[PDF\]](https://arxiv.org/pdf/2004.01946.pdf) [\[Project\]](https://www.arielai.com/mesh_hands/)  *(Oral)* *([Paper Award Nominees](http://cvpr2020.thecvf.com/node/817))*
-_Dominik Kulon, Riza Alp Güler, Iasonas Kokkinos, Michael Bronstein, Stefanos Zafeiriou_
+_Dominik Kulon, Riza Alp Güler, Iasonas Kokkinos, Michael Bronstein, Stefanos Zafeiriou
 
-### 2020 ECCV
-
-### 2020 Others
+### Hand Object Interaction
+* H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tekin_HO_Unified_Egocentric_Recognition_of_3D_Hand-Object_Poses_and_Interactions_CVPR_2019_paper.pdf)
+_Bugra Tekin, Federica Bogo, Marc Pollefeys_
 
 ---
 
@@ -37,4 +39,4 @@ I will keep some pull requests open if I'm not sure whether those libraries are 
 
 - - -
 
-If you have any question about this opinionated list, do not hesitate to contact me [@VintaChen](https://twitter.com/VintaChen) on Twitter or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact me [@KaiXu]() or open an issue on GitHub.
