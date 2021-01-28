@@ -2,7 +2,7 @@
 
 A curated list of awesome hand pose estimation papers, frameworks, libraries, software and resources.
 
-- [Awesome Hand Pose Estimation](#awesome-hand-pose-estimation)
+- [Awesome Hand Pose Estimation ![Awesome](https://awesome.re)](#awesome-hand-pose-estimation-)
   - [Papers](#papers)
     - [Video-based Pose Estimation](#video-based-pose-estimation)
     - [Hand Reconstruction](#hand-reconstruction)
@@ -37,6 +37,6 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/vinta/awesome-python/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
 
-- - -
+---
 
 If you have any question about this opinionated list, do not hesitate to contact me [@KaiXu]() or open an issue on GitHub.
